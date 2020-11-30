@@ -5,3 +5,7 @@ var a = 5
 var z = x + y + b
 console.log(z)
 
+function kali(){
+    console.log(a * 2)
+}
+kali()
